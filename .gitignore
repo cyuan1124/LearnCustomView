@@ -6,3 +6,4 @@
 .externalNativeBuild
 libs/
 .gradle/
+build/
